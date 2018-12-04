@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora_de_tiempos</string>
+    <string name="fecha1">Primera Fecha y Hora:</string>
+    <string name="fecha2">Segunda Fecha y Hora:</string>
+    <string name="tiempo">Tiempo Transcurrido:</string>
+    <string name="actual">Comparar con fecha actual</string>
+    <string name="calcular">Calcular</string>
+    <string name="calendario">Calendario</string>
+    <string name="hora">Hora</string>
+    <string name="cal">dd/mm/aa</string>
+    <string name="time">hh:mm</string>
+
+</resources>
